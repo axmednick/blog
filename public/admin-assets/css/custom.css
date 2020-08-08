@@ -1,0 +1,19 @@
+.space{
+    margin-top: 25px;
+}
+.big-space{
+    margin-top:50px;
+}
+.label{
+    font-size: 17px;
+    font-weight: bold;
+    }
+.input-slug{
+    height: 25px;
+}
+
+.general_category{
+    background: grey !important;
+    color: white;
+    margin-left: 50px!important;
+}
